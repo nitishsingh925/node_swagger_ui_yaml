@@ -1,0 +1,7 @@
+paths:
+  /example:
+    get:
+      summary: Example endpoint
+      responses:
+        "200":
+          description: Successful response

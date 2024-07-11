@@ -1,0 +1,7 @@
+paths:
+  /dummy1:
+    get:
+      summary: Dummy endpoint 1
+      responses:
+        "200":
+          description: Successful response for dummy 1

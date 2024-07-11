@@ -1,0 +1,8 @@
+openapi: 3.0.0
+info:
+  title: Node Swagger UI YAML
+  version: 1.0.0
+  description: Nitish Singh
+servers:
+  - url: http://localhost:3000
+paths: {}
